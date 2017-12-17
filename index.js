@@ -18,4 +18,3 @@ function updateObjectWithKeyAndValue(object, key, value) {
     delete object[key];
     return object;
   }
- 
